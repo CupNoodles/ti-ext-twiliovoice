@@ -1,0 +1,27 @@
+{
+    "name": "cupnoodles/twiliovoice",
+    "type": "tastyigniter-extension",
+    "description": "Make a voice call from Twilio.",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "CupNoodles",
+        "email": "daigo.w.kawasaki@gmail.com"
+      }
+    ],
+    "require": {
+        "twilio/sdk": "^5.0"
+    },
+    "extra": {
+      "tastyigniter-extension": {
+        "code": "cupnoodles.twiliovoice",
+        "name": "TwilioVoice",
+        "icon": {
+          "image": "icon.svg",
+          "backgroundColor": "#147EFB",
+          "color": "#FFF"
+        }
+      }
+    }
+  }
+  

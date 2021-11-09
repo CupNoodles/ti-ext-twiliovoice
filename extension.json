@@ -1,0 +1,16 @@
+{
+    "code": "cupnoodles.twiliovoice",
+    "name": "Twilio voice calls",
+    "description": "Make calls on Twilio",
+    "version": "v1.0.0",
+    "author": "CupNoodles",
+    "icon": {
+      "class": "fas fa-phone",
+      "backgroundColor": "#1B294B",
+      "color": "#fff"
+    },
+    "homepage": "",
+    "require": {
+      "igniterlabs.webhook" : "*"
+    }
+  }
